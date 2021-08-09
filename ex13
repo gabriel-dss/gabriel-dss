@@ -1,0 +1,7 @@
+preco = input("insira o preço")
+
+valor = float(preco)
+
+valor_com_desconto = valor - (valor*5/100)
+
+print(valor_com_desconto)
