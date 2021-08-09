@@ -1,0 +1,13 @@
+largura = input("insira largura")
+
+altura = input("insira altura")
+
+largura1 = int(largura)
+
+altura2 = int(altura)
+
+area = largura1*altura2
+
+tinta = area/2
+
+print("são necessarios {} litros de tinta para pintar a parede".format(tinta))
