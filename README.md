@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @gabriel-dss
 - 👀 I’m interested in AI's and machine learning
-- 🌱 I’m currently learning pythin
+- 🌱 I’m currently learning python
