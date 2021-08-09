@@ -1,0 +1,9 @@
+numero = input("insira o valor em real brasileiro")
+
+valor = float(numero)
+
+conta = valor/5.30
+
+compravel = conta
+
+print("você pode comprar {} dolares".format(compravel))
