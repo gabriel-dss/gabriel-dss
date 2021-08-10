@@ -1,0 +1,7 @@
+salario = input("insira salario")
+
+base = float(salario)
+
+salaraio_novo = base + (base*15/100)
+
+print(salaraio_novo)
