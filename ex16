@@ -1,0 +1,11 @@
+kilometros_rodados = input("insira os kilometros rodados")
+
+kilometros = float(kilometros_rodados)
+
+dias_alugados = input("insira os dias")
+
+dias = float(dias_alugados)
+
+preco_kilometros = kilometros*0,15
+
+preco_dias = dias*60
